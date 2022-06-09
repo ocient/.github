@@ -1,3 +1,3 @@
-![Ocient Logo](/assets/images/ocient_logo_full.jpg)
+![Ocient Logo](/assets/images/ocient_logo_full.jpg|width=100px])
 
 Ocient is the leading hyperscale data solutions company that enables organizations to unlock value by analyzing trillions of data records at performance levels and costs previously unattainable. Leading organizations around the world trust Ocient’s team of industry experts to design and deploy proven complex solutions that enable and fast-track new revenue opportunities, streamline operations, and improve security on 5-10x more data while reducing their storage footprint by roughly 80%. Ocient’s pilot-to-production solutions are rapidly deployed on-prem or in the cloud with little to no resource-intensive integration. Ocient is a carbon-neutral company, headquartered in Chicago, and backed by leading investors including Greycroft, OCA Ventures and In-Q-Tel.
